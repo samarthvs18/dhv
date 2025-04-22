@@ -1,0 +1,3 @@
+query = 'Climate Change lang:en -is:retweet'
+query = 'Artificial Intelligence lang:en -is:retweet'
+query = 'Electric Vehicles lang:en -is:retweet'

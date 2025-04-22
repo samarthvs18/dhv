@@ -1,0 +1,7 @@
+snscrape
+pandas
+vaderSentiment
+seaborn
+matplotlib
+wordcloud
+jupyter
